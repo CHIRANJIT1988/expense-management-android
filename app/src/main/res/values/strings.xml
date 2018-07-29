@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Cab Management</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_add">Add Transaction Purpose</string>
+
+    <string name="button_save">Save</string>
+
+    <string name="hint_message">Write Message</string>
+    <string name="hint_amount">Enter Amount *</string>
+    <string name="hint_date">Enter Date *</string>
+
+</resources>

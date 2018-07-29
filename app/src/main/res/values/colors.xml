@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="myPrimaryColor">#e34434</color>
+    <color name="myPrimaryDarkColor">#e0301e</color>
+    <color name="myAccentColor">#e34434</color>
+    <color name="myDrawerBackground">#FFF</color>
+    <color name="myWindowBackground">#FFF</color>
+    <color name="myTextPrimaryColor">#212121</color>
+    <color name="myTextSecondaryColor">#727272</color>
+    <color name="myNavigationColor">#000</color>
+
+    <color name="divider">#d5d5d5</color>
+    <color name="background">#dadada</color>
+    <color name="home_background">#c5edfe</color>
+    <color name="green">#259b24</color>
+
+    <string-array name="user_color">
+        <item>#8bc34a</item>
+        <item>#ffc107</item>
+    </string-array>
+
+    <color name="highlight">#f3f3f3</color>
+
+    <color name="error">#e73238</color>
+    <color name="success">#259b24</color>
+    <color name="modify">#FBC02D</color>
+
+</resources>
